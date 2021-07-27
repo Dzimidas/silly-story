@@ -1,2 +1,3 @@
-#Silly-story
+# Silly-story
+
 Silly story generating website.
